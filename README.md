@@ -49,4 +49,9 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=GatoEVX4&color=green)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=GatoEVX4&color=red" />
+  <a href="https://discord.com/users/1214355385457188926">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865f2?style=flat&logo=discord&logoColor=white" />
+  </a>
+</p>
