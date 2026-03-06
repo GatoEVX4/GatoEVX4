@@ -29,7 +29,7 @@
 </p>
 
 <p>
-  <strong>Hosting providers</strong><br/><br/>
+  <strong>Hosting providers/Infrastructure</strong><br/><br/>
   <a href="https://skills.syvixor.com">
     <img src="https://skills.syvixor.com/api/icons?i=amazonwebservices,cloudflare,cloudflareworkers,docker,nginx" />
   </a>
