@@ -5,6 +5,10 @@
 ![](https://raw.githubusercontent.com/GatoEVX4/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/GatoEVX4/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+<a href="https://discord.com/users/1336019509362032760">
+    <img src="https://lanyard.cnrad.dev/api/1336019509362032760?borderRadius=8px&hideTag=true&bg=0a0a0a" alt="Discord Presence">
+</a>
+
 ## Tech Stack
 
 <p>
