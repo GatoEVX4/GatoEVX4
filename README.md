@@ -1,5 +1,4 @@
 ## Stats
-![](https://hit.yhype.me/github/profile?account_id=193823349)
 
 ![](https://raw.githubusercontent.com/GatoEVX4/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/GatoEVX4/github-stats/master/generated/overview.svg#gh-light-mode-only)
@@ -60,3 +59,5 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865f2?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
+
+![](https://hit.yhype.me/github/profile?account_id=193823349)
