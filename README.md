@@ -9,21 +9,21 @@
 <p>
   <strong>Programming Languages</strong><br/><br/>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=csharp,typescript,python,cpp,php,bash" />
+    <img src="https://skills.syvixor.com/api/icons?i=csharp,xaml,typescript,python,cpp,php,bash" />
   </a>
 </p>
 
 <p>
   <strong>Frameworks</strong><br/><br/>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=dotnet,angularjs,laravel,flask" />
+    <img src="https://skills.syvixor.com/api/icons?i=dotnet,angularjs,winui,laravel,flask" />
   </a>
 </p>
 
 <p>
   <strong>Database</strong><br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?i=postgresql,mysql,sqlite" />
+    <img src="https://skills.syvixor.com/api/icons?i=postgresql,mysql,sqlite,redis" />
   </a>
 </p>
 
@@ -37,14 +37,14 @@
 <p>
   <strong>Editors/IDEs</strong><br/><br/>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,notepadplusplus,androidstudio,arduino" />
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,notepadplusplus,androidstudio,arduino,ida" />
   </a>
 </p>
 
 <p>
   <strong>Operating Systems</strong><br/><br/>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=windows,debian" />
+    <img src="https://skills.syvixor.com/api/icons?i=windows,debian,kalilinux,ubuntu" />
   </a>
 </p>
 
