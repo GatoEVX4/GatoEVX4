@@ -9,7 +9,7 @@
 <p>
   <strong>Programming Languages</strong><br/><br/>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=csharp,python,cpp,typescript,javascript,php,bash" />
+    <img src="https://skills.syvixor.com/api/icons?i=csharp,typescript,python,cpp,php,bash" />
   </a>
 </p>
 
